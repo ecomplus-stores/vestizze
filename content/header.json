@@ -1,8 +1,20 @@
 {
+  "categories_list": {
+    "featured": [],
+    "random": 6,
+    "full_width": false
+  },
+  "menu_all_departments": false,
+  "centralized_logo": false,
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
+    "text": "Nossas peças são limitadas! Garanta a sua hoje! ",
     "link": "/promotion"
   },
+  "alphabetical_order_submenu": false,
+  "name_all_departments": "",
+  "search_input": true,
+  "desktop_megamenu": false,
+  "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [
       {
@@ -10,23 +22,11 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "",
+        "link": ""
       }
     ],
     "phone_wpp": true,
     "socials": true
-  },
-  "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
-  },
-  "centralized_logo": false,
-  "desktop_megamenu": false,
-  "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false,
-  "menu_all_departments": false,
-  "name_all_departments": ""
+  }
 }
